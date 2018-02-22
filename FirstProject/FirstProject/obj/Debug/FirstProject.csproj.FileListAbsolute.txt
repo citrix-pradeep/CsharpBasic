@@ -1,0 +1,6 @@
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\GitRoot\CsharpBasic\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
